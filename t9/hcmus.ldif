@@ -1,0 +1,5 @@
+dn: dc=hcmus,dc=com
+objectClass: dcObject
+objectClass: organization
+dc: hcmus
+o: hcmus

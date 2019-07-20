@@ -1,0 +1,6 @@
+dn: cn=SinhVien,ou=Users,dc=hcmus,dc=com
+cn: SnhVien
+sn: SinhVien
+objectClass: inetOngPerson
+userPassword: p@ssW0rd
+uid: sv

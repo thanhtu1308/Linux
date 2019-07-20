@@ -1,0 +1,3 @@
+dn: ou=Users,dc=hcmus,dc=com
+objectClass: organizationalUnit
+Ou: Users
